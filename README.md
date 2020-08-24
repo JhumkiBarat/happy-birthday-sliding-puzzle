@@ -1,13 +1,13 @@
 # happy-birthday-sliding-puzzle
 
-This was a project that shows helps us wish our friend happy birthday with help of a sliding puzzle game.
+This was a project that helps us wish our friend an innovative happy birthday with help of a sliding puzzle game.
 
 Steps:-
 
-save an image with name imm.png
+1.save an image with name imm.png which you want to show your friend.
 
-Browse png based to play the game.
+2.Browse png based to play the game.
 
-You will have to finish within 20 moves to win the game.
+3.You will have to finish within 20 moves to win the game.
 
-At the end of the game a beautiful message awaits.
+4.At the end of the game a beautiful message awaits.
